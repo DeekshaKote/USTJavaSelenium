@@ -1,0 +1,17 @@
+Assignment - Week2 - Day 1
+Java 
+
+1. Create a abstract class shape
+2. Create a abstract method calculateArea in shape.java
+3. Create a circle class
+4. write a sop "CalculateArea for circle"
+5. Create a rectangle class
+6. write a sop "CalculateArea for rectangle"
+
+7. Create a testShapes class with main method
+8. circle circle1 = new circle();
+9. circle1.CalculateArea()
+10.rectangle rect1=new rectangle();
+11. rect1.CalculateArea();
+
+12. Run the testShapes 
